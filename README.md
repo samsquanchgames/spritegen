@@ -15,6 +15,9 @@ If you hit a memory limit error in PHP, run like this:
     php -dmemory_limit=512M -f spritegen.php
 
 Author: John Luxford <lux@samsquanchgames.com>
+
 Website: http://www.samsquanchgames.com/
+
 License: http://opensource.org/licenses/lgpl-3.0
+
 Updates: http://github.com/samsquanchgames/spritegen
