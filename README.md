@@ -16,8 +16,8 @@ If you hit a memory limit error in PHP, run like this:
 
 Author: John Luxford <lux@samsquanchgames.com>
 
-Website: (http://www.samsquanchgames.com/)[http://www.samsquanchgames.com/]
+Website: [http://www.samsquanchgames.com/](http://www.samsquanchgames.com/)
 
-License: (http://opensource.org/licenses/lgpl-3.0)[http://opensource.org/licenses/lgpl-3.0]
+License: [http://opensource.org/licenses/lgpl-3.0](http://opensource.org/licenses/lgpl-3.0)
 
-Updates: (http://github.com/samsquanchgames/spritegen)[http://github.com/samsquanchgames/spritegen]
+Updates: [http://github.com/samsquanchgames/spritegen](http://github.com/samsquanchgames/spritegen)
