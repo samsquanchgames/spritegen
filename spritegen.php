@@ -46,7 +46,7 @@ $d = dir ($dir);
 $files = array ();
 while (false !== ($entry = $d->read ())) {
 	if (preg_match ('/\.png$/i', $entry)) {
-		$files[] = $entry;
+		$files[] = $dir . '/' . $entry;
 	}
 }
 $d->close ();
